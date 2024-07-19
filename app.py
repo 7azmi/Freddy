@@ -15,11 +15,11 @@ logging.getLogger("httpx").setLevel(logging.WARNING)
 logger = logging.getLogger(__name__)
 
 BOT_TOKEN = os.getenv('BOT_TOKEN')
-ADMIN_CHAT_ID = os.getenv('ADMIN_CHAT_ID')
+BUSINESS_CHAT_ID = os.getenv('BUSINESS_CHAT_ID')
 
 async def text_message_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # To prevent processing messages from you
-    if ADMIN_CHAT_ID == str(update.effective_user.id):
+    if BUSINESS_CHAT_ID == str(update.effective_user.id):
         return
 
     text = update.business_message.text
