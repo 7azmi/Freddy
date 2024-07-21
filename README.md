@@ -9,7 +9,8 @@ You need to have a business Telegram account (Premium) to connect a bot to your 
 
 More details about Telegram Business can be found [here](https://telegram.org/blog/telegram-business/).
 
-[![Telegram Business Introduction](https://telegram.org/file/400780400792/3/Y8CWkKZOVHM.3771962.mp4/044a6d7645581d8bf6)](https://telegram.org/file/400780400792/3/Y8CWkKZOVHM.3771962.mp4/044a6d7645581d8bf6)
+
+
 
 ## Installation
 1. Clone the repository:
@@ -35,6 +36,7 @@ More details about Telegram Business can be found [here](https://telegram.org/bl
 ## Demo
 You can directly message me on Telegram and my little bot assistant will welcome you while I'm asleep :)
 [Message Freddy](https://t.me/m/BPCKMLTrYTll)
+
 
 ![Sample Screenshot 1](path/to/screenshot1.png)
 ![Sample Screenshot 2](path/to/screenshot2.png)
