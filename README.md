@@ -39,6 +39,3 @@ You can directly message me on Telegram and my little bot assistant will welcome
 
 ## Contributing
 This project is complete as it serves its purpose. It demonstrates that bots can be integrated with Telegram business chats and interact with users.
-
-## Questions?
-Feel free to ask me on Telegram: [@efficiencywins](https://t.me/efficiencywins)
