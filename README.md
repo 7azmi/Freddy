@@ -33,9 +33,5 @@ More details about Telegram Business can be found [here](https://telegram.org/bl
     python app.py
     ```
 
-## Demo
-You can directly message me on Telegram and my little bot assistant will welcome you while I'm asleep :)
-[Message Freddy](https://t.me/m/BPCKMLTrYTll)
-
 ## Contributing
 This project is complete as it serves its purpose. It demonstrates that bots can be integrated with Telegram business chats and interact with users.
